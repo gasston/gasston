@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NuxtJs , nodejs and vueJs 
+- 👯 I’m looking to collaborate on opensource projects
+- 💬 Ask me about Js , opensource and movie 
 <!--
 **gasston/gasston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
